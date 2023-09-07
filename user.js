@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Custom Crosschair for fps
-// @description  crosschair for fps game to improve game experience
+// @name         自定义准星
+// @description  自定义准星以辅助瞄准提高游戏体验
 // @version      0.0.1
 // @match        https://ev.io/*
 // @match        https://krunker.io/*
